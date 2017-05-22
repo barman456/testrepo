@@ -12,7 +12,7 @@ Apache license (http://www.apache.org/licenses/LICENSE-2.0.html)
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript">
     /*
-    *  How to setup a textarea that allows Transliteration from English to Hindi.
+    *  How to setup a textareaereed Direct  ////// ****** Al that allows Transliteration from English to Hindi.
     */
     
     google.load("language", "1");
